@@ -12,23 +12,15 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">SOBRE MIM</h2>
 
 ###
 
-<p align="left">🧑🏻‍💻 Transformando idéias em linhas de código <br>📚 Buscando sempre aprender e inovar<br>🎯 Foco e entrega é o objetivo principal<br>✨ Construindo soluções com qualidade e colaboração</p>
+<p align="center">🧑🏻‍💻 Transformando idéias em linhas de código <br>📚 Buscando sempre aprender e inovar<br>🎯 Foco e entrega é o objetivo principal<br>✨ Construindo soluções com qualidade e colaboração</p>
 
 ###
 
-<h1 align="center">Minhas ferramentas</h1>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelcode-dev&locale=pt-br&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">MINHAS FERRAMENTAS</h1>
 
 ###
 
@@ -47,6 +39,14 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Pixelcode-dev/Pixelcode-dev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelcode-dev&locale=pt-br&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
