@@ -54,7 +54,7 @@
 
   <img/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelcode-dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelcode-dev&locale=pt-br&hide_title=false&layout=default&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 <picture>
