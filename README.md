@@ -5,11 +5,15 @@
 **`DESENVOLVEDOR JÚNIOR`**
 
 <p align="left">
-👋🏻 Me chamo Pixel Code, estou iniciando minha jornada neste vasto universo da programação.
+👋🏻 Olá, eu chamo Pixel Code, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
   <br>
-🎯 Focado em desenvolver soluções eficientes.
+🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.
 <br>
-✨ Transformar cada ideia em linha de código.
+✨ Transformando idéias em linhas de códigos.
+  <br>
+📖 Comprometido com o aprendizado contínuo, dedicando-me a estudar novas tecnologias.
+  <br>
+💡 Encarando os desafios complexos com raciocínio lógico e persistência até encontrar a melhor solução.
 </p>
 
 ###
