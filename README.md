@@ -51,6 +51,10 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pixelcode-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+
+  <img/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pixelcode-dev&locale=pt-br&hide_title=false&layout=default&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 <picture>
