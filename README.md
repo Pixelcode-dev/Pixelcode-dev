@@ -2,7 +2,7 @@
 
 ###
 
-**`DESENVOLVEDOR JÚNIOR`**
+**`⚙️ DESENVOLVEDOR JÚNIOR`**
 
 <p align="left">
 👋🏻 Olá, me chamo Pixel Code, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
