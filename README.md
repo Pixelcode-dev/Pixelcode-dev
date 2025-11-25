@@ -51,13 +51,13 @@
 
 ###
 
-<p align="left"> </p>
+<p align="center"> </p>
 
 ###
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<div align="left">
+<div align="center">
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=pixelcode-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
