@@ -57,7 +57,7 @@
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<div align="center">
+<div align="left">
 
   <img
     src="https://github-readme-stats.vercel.app/api?username=pixelcode-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
@@ -68,7 +68,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcode-dev&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
     height="200"
-    alt="Languages"
+    alt="Most commonly used languages"
   />
 
 <h2 align="center"></h2>
