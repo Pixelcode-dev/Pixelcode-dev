@@ -68,7 +68,7 @@
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelcode-dev&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
     height="200"
-    alt="Top Languages"
+    alt="Languages"
   />
 
 </div>
