@@ -1,4 +1,4 @@
-<h2 align="center">🧑🏻‍💻 Pixel Code</h2>
+<h2 align="center">🧑🏻‍💻 DevPrimeBR </h2>
 
 ###
 
@@ -9,7 +9,7 @@
 </h4>
 
 <p align="center">
-👋🏻 Olá, me chamo Pixel Code, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
+👋🏻 Olá, me chamo DevPrimeBR, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
   <br>
 🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.
 <br>
